@@ -63,7 +63,7 @@ def get_jerk_factor(personality=custom.LongitudinalPersonalitySP.standard):
   elif personality==custom.LongitudinalPersonalitySP.standard:
     return 0.8
   elif personality==custom.LongitudinalPersonalitySP.moderate:
-    return 0.6
+    return 0.5
   elif personality==custom.LongitudinalPersonalitySP.aggressive:
     return 0.222
   else:
