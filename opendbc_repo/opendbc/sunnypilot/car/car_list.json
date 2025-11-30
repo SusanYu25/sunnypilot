@@ -55,6 +55,16 @@
     ],
     "package": "All"
   },
+  "Acura TLX 2021": {
+    "platform": "ACURA_TLX_2G",
+    "make": "Acura",
+    "brand": "honda",
+    "model": "TLX",
+    "year": [
+      "2021"
+    ],
+    "package": "All"
+  },
   "Audi A3 2014-19": {
     "platform": "AUDI_A3_MK3",
     "make": "Audi",
@@ -1032,13 +1042,14 @@
     ],
     "package": "All"
   },
-  "Honda Civic Hybrid 2025": {
+  "Honda Civic Hybrid 2025-26": {
     "platform": "HONDA_CIVIC_2022",
     "make": "Honda",
     "brand": "honda",
     "model": "Civic Hybrid",
     "year": [
-      "2025"
+      "2025",
+      "2026"
     ],
     "package": "All"
   },
@@ -1081,7 +1092,7 @@
     ],
     "package": "Honda Sensing"
   },
-  "Honda CR-V 2023-25": {
+  "Honda CR-V 2023-26": {
     "platform": "HONDA_CRV_6G",
     "make": "Honda",
     "brand": "honda",
@@ -1089,7 +1100,8 @@
     "year": [
       "2023",
       "2024",
-      "2025"
+      "2025",
+      "2026"
     ],
     "package": "All"
   },
@@ -1222,7 +1234,7 @@
     ],
     "package": "Honda Sensing"
   },
-  "Honda Odyssey 2021-25": {
+  "Honda Odyssey 2021-26": {
     "platform": "HONDA_ODYSSEY_5G_MMR",
     "make": "Honda",
     "brand": "honda",
@@ -1232,7 +1244,8 @@
       "2022",
       "2023",
       "2024",
-      "2025"
+      "2025",
+      "2026"
     ],
     "package": "All"
   },
@@ -1249,6 +1262,16 @@
       "2023",
       "2024",
       "2025"
+    ],
+    "package": "All"
+  },
+  "Honda Passport 2026": {
+    "platform": "HONDA_PASSPORT_4G",
+    "make": "Honda",
+    "brand": "honda",
+    "model": "Passport",
+    "year": [
+      "2026"
     ],
     "package": "All"
   },
@@ -2567,6 +2590,19 @@
     ],
     "package": "Co-Pilot360 Plus"
   },
+   "Lincoln Nautilus 2018-21": {
+    "platform": "FORD_EXPLORER_MK6",
+    "make": "Lincoln",
+    "brand": "ford",
+    "model": "Nautilus",
+    "year": [
+      "2018",
+      "2019",
+      "2020",
+      "2021"
+    ],
+    "package": "Adaptive Cruise Control with Lane Centering"
+  },
   "Lincoln Aviator Plug-in Hybrid 2020-24": {
     "platform": "FORD_EXPLORER_MK6",
     "make": "Lincoln",
@@ -2637,14 +2673,15 @@
     ],
     "package": "All"
   },
-  "Nissan Altima 2019-20": {
+  "Nissan Altima 2019-20, 2024": {
     "platform": "NISSAN_ALTIMA",
     "make": "Nissan",
     "brand": "nissan",
     "model": "Altima",
     "year": [
       "2019",
-      "2020"
+      "2020",
+      "2024"
     ],
     "package": "ProPILOT Assist"
   },
@@ -2949,9 +2986,9 @@
     ],
     "package": "EyeSight Driver Assistance"
   },
-  "Škoda Fabia 2022-23": {
+  "艩koda Fabia 2022-23": {
     "platform": "SKODA_FABIA_MK4",
-    "make": "Škoda",
+    "make": "艩koda",
     "brand": "volkswagen",
     "model": "Fabia",
     "year": [
@@ -2960,9 +2997,9 @@
     ],
     "package": "Adaptive Cruise Control (ACC) & Lane Assist"
   },
-  "Škoda Kamiq 2021-23": {
+  "艩koda Kamiq 2021-23": {
     "platform": "SKODA_KAMIQ_MK1",
-    "make": "Škoda",
+    "make": "艩koda",
     "brand": "volkswagen",
     "model": "Kamiq",
     "year": [
@@ -2972,9 +3009,9 @@
     ],
     "package": "Adaptive Cruise Control (ACC) & Lane Assist"
   },
-  "Škoda Karoq 2019-23": {
+  "艩koda Karoq 2019-23": {
     "platform": "SKODA_KAROQ_MK1",
-    "make": "Škoda",
+    "make": "艩koda",
     "brand": "volkswagen",
     "model": "Karoq",
     "year": [
@@ -2986,9 +3023,9 @@
     ],
     "package": "Adaptive Cruise Control (ACC) & Lane Assist"
   },
-  "Škoda Kodiaq 2017-23": {
+  "艩koda Kodiaq 2017-23": {
     "platform": "SKODA_KODIAQ_MK1",
-    "make": "Škoda",
+    "make": "艩koda",
     "brand": "volkswagen",
     "model": "Kodiaq",
     "year": [
@@ -3002,9 +3039,9 @@
     ],
     "package": "Adaptive Cruise Control (ACC) & Lane Assist"
   },
-  "Škoda Octavia 2015-19": {
+  "艩koda Octavia 2015-19": {
     "platform": "SKODA_OCTAVIA_MK3",
-    "make": "Škoda",
+    "make": "艩koda",
     "brand": "volkswagen",
     "model": "Octavia",
     "year": [
@@ -3016,9 +3053,9 @@
     ],
     "package": "Adaptive Cruise Control (ACC) & Lane Assist"
   },
-  "Škoda Octavia RS 2016": {
+  "艩koda Octavia RS 2016": {
     "platform": "SKODA_OCTAVIA_MK3",
-    "make": "Škoda",
+    "make": "艩koda",
     "brand": "volkswagen",
     "model": "Octavia RS",
     "year": [
@@ -3026,9 +3063,9 @@
     ],
     "package": "Adaptive Cruise Control (ACC) & Lane Assist"
   },
-  "Škoda Octavia Scout 2017-19": {
+  "艩koda Octavia Scout 2017-19": {
     "platform": "SKODA_OCTAVIA_MK3",
-    "make": "Škoda",
+    "make": "艩koda",
     "brand": "volkswagen",
     "model": "Octavia Scout",
     "year": [
@@ -3038,9 +3075,9 @@
     ],
     "package": "Adaptive Cruise Control (ACC) & Lane Assist"
   },
-  "Škoda Scala 2020-23": {
+  "艩koda Scala 2020-23": {
     "platform": "SKODA_KAMIQ_MK1",
-    "make": "Škoda",
+    "make": "艩koda",
     "brand": "volkswagen",
     "model": "Scala",
     "year": [
@@ -3051,9 +3088,9 @@
     ],
     "package": "Adaptive Cruise Control (ACC) & Lane Assist"
   },
-  "Škoda Superb 2015-22": {
+  "艩koda Superb 2015-22": {
     "platform": "SKODA_SUPERB_MK3",
-    "make": "Škoda",
+    "make": "艩koda",
     "brand": "volkswagen",
     "model": "Superb",
     "year": [
